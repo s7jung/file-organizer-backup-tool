@@ -7,5 +7,5 @@ Currently it can back up files to any local or mounted storage path. This includ
 
 How to Use:
 * Run the script with Python.
-* Input the source folder path, backup destination, and the number of days to determine files eligible for compression.
+* Input the source folder path, backup destination, and the number of days to determine files to be compressed. 
 * The script will handle the rest!
